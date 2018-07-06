@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme1" parent="android:Widget.ActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ButtonStyle1">
+        <item name="android:background">#d8d5d5</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonStyle2">
+        <item name="android:background">#e8833b</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#ede9e9</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TvStyle">
+        <item name="android:gravity">right|bottom</item>
+        <item name="android:textSize">80sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+</resources>
